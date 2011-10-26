@@ -1,0 +1,8 @@
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\bin\x86\Debug\FSPortTest.exe
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\bin\x86\Debug\FSPortTest.pdb
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\obj\x86\Debug\FSPortTest.exe
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\obj\x86\Debug\FSPortTest.pdb
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\bin\x86\Debug\FarseerPhysicsXNA.dll
+E:\Build\FarSeerPortTest\FSPortTest\FSPortTest\FSPortTest\bin\x86\Debug\FarseerPhysicsXNA.pdb

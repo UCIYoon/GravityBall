@@ -28,6 +28,7 @@ namespace FSPortTest
 
             ZwoptexHelperC_Sharp zwoptex = new ZwoptexHelperC_Sharp("Sample.plist");
             zwoptex.parseStart();
+            Console.WriteLine(zwoptex.toString());
         }
 
         /// <summary>

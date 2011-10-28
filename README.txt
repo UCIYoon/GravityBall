@@ -7,3 +7,5 @@ Zwoptex .plist importer has done! yay!
 Import the library of FarSeer Physics Engine done!
 
 If you have any question, you are more than welcome to ask me @ byobyohae@gmail.com
+
+BIAT-CH~
